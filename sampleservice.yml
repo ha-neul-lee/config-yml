@@ -6,4 +6,4 @@ datasource:
   driver-class-name: org.h2.Driver
   url: jdbc:h2:~/test
   username: sa
-  password: '${cipher}1a09d0f9396928bb6f72edc2510c9867f5519d2d771b0c4eadadd9bcfd0a02ba'
+  password: '{cipher}1a09d0f9396928bb6f72edc2510c9867f5519d2d771b0c4eadadd9bcfd0a02ba'
